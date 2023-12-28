@@ -36,8 +36,8 @@ const Intro = () => {
         
         {/* social icons */}
         <div className="i-icons">
-          <img src="https://github.com/Garvanand" alt="https://github.com/Garvanand" />
-          <img src="https://www.linkedin.com/in/garv-anand-1bb36b270/" alt="https://www.linkedin.com/in/garv-anand-1bb36b270/" />
+          <img src={Github} alt="https://github.com/Garvanand" />
+          <img src={Linkedin} alt="https://www.linkedin.com/in/garv-anand-1bb36b270/" />
           <img src="https://www.instagram.com/garv_anand_" alt="https://www.instagram.com/garv_anand_" />
         </div>
       </div>
