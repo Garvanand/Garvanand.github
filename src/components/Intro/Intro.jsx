@@ -29,16 +29,16 @@ const Intro = () => {
           <span style={{ color: darkMode ? "white" : "" }}>Hi! I Am</span>
           <span>Garv Anand</span>
           <span>
-          I'am a Student, Web Developer, an Open Source Contributor and a Python Developer
+         <b> I'am a Student, Web Developer, an Open Source Contributor and a Python Developer</b>
 
           </span>
         </div>
         
         {/* social icons */}
         <div className="i-icons">
-          <img src={Github} alt="https://github.com/Garvanand" />
-          <img src={LinkedIn} alt="https://www.linkedin.com/in/garv-anand-1bb36b270/" />
-          <img src={Instagram} alt="https://www.instagram.com/garv_anand_" />
+          <img src="https://github.com/Garvanand" alt="https://github.com/Garvanand" />
+          <img src="https://www.linkedin.com/in/garv-anand-1bb36b270/" alt="https://www.linkedin.com/in/garv-anand-1bb36b270/" />
+          <img src="https://www.instagram.com/garv_anand_" alt="https://www.instagram.com/garv_anand_" />
         </div>
       </div>
       {/* right image side */}
